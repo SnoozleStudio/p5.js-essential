@@ -1,3 +1,5 @@
 ✔ create/download node .gitignore avaible here: https://raw.githubusercontent.com/github/gitignore/main/Node.gitignore @started(23-11-21 12:44) @done(23-11-21 12:44) @lasted(48s)
 ✔ init git repo @started(23-11-21 12:46) @done(23-11-21 12:46) @lasted(26s)
-☐ init mpn @started(23-11-21 12:46)
+✔ init mpn @started(23-11-21 12:46) @done(23-11-21 12:51) @lasted(5m2s)
+✔ install node live server @started(23-11-21 12:53) @done(23-11-21 12:53) @lasted(38s)
+✔ install p5.js @started(23-11-21 12:53) @done(23-11-21 13:00) @lasted(7m12s)
